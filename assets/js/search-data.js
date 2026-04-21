@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-中文",
           title: "中文",
-          description: "中文简介",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/zh/";
