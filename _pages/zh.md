@@ -34,12 +34,10 @@ description: 中文简介
 2. **Lu**, Fang, Li, Song (2025). *The Effect of Supplier IPOs on Major Customer Firm Value*. Financial Review.
 3. Fang, Kang, **Lu\*** (2023). *Promoting Financial Stability of Oil Producers: Operational vs. Financial Hedging*. Journal of Financial Stability.
 
-完整工作论文列表详见 [Publications](/publications/)。
-
 ### 科研项目
 
-- 主持，国家自然科学基金面上项目 "企业 ESG 投资决策研究：基于啄序行为的视角"（72472109），2025–2028
-- 参与，国家自然科学基金面上项目 "中国企业文化特征与企业价值：基于机器学习的研究"（72272104），2023–2026
+- 主持，国家自然科学基金面上项目 "企业 ESG 投资决策研究：基于啄序行为的视角"
+- 参与，国家自然科学基金面上项目 "中国企业文化特征与企业价值：基于机器学习的研究"
 
 ### 教学
 

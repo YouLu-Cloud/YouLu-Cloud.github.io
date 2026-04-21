@@ -1,12 +1,11 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/You_Lu_CV.pdf
-cv_format: jsonresume
-description: Curriculum Vitae. Click the PDF icon above for the full version.
-toc:
-  sidebar: left
 ---
+
+<p><a href="/assets/pdf/You_Lu_CV.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">Download PDF</a></p>
+
+<iframe src="/assets/pdf/You_Lu_CV.pdf" width="100%" height="1100px" style="border: 1px solid #ddd;"></iframe>

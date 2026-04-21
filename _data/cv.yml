@@ -73,19 +73,14 @@ cv:
       - area: IT Investment and Cybersecurity
 
     Grants:
-      - title: "NSFC General Program (72472109): Research on Corporate ESG Investment Decision: A Pecking Order Behavior"
+      - title: "NSFC General Program: Research on Corporate ESG Investment Decision (A Pecking Order Behavior)"
         role: Principal Investigator
-        start_date: 2025
-        end_date: 2028
 
-      - title: "NSFC General Program (72272104): Chinese Corporate Culture and Firm Value: A Machine Learning Approach"
+      - title: "NSFC General Program: Chinese Corporate Culture and Firm Value (A Machine Learning Approach)"
         role: Participant
-        start_date: 2023
-        end_date: 2026
 
       - title: Outstanding Young Scholar, Soochow University
         role: Recipient
-        start_date: 2020
 
     Teaching:
       - title: Undergraduate
