@@ -4,7 +4,9 @@ permalink: /zh/
 title: 中文
 nav: true
 nav_order: 6
-description: 中文简介
+description:
+_styles: >
+  .post-header { display: none; }
 ---
 
 ## 陆游
