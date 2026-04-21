@@ -14,7 +14,7 @@ profile:
     <p>Suzhou, Jiangsu 215021, China</p>
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: true
