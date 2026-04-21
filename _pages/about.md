@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor of Finance · <a href="https://bs.suda.edu.cn/">Business School, Soochow University</a>
+subtitle: Assistant Professor of Finance · <a href="https://web.suda.edu.cn/ylu/">Business School, Soochow University</a>
 
 profile:
   align: left
