@@ -31,7 +31,7 @@ description: 中文简介
 ### 代表论文
 
 <div class="publications">
-{% bibliography -q @article[*] %}
+{% bibliography -q @article %}
 </div>
 
 ### 科研项目
