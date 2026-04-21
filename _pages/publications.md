@@ -5,6 +5,8 @@ title: Publications
 description:
 nav: true
 nav_order: 2
+_styles: >
+  .post-header { display: none; }
 ---
 
 <div class="publications">

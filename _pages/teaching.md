@@ -2,9 +2,11 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses taught at Soochow University Business School.
+description:
 nav: true
 nav_order: 4
+_styles: >
+  .post-header { display: none; }
 ---
 
 ## Undergraduate
