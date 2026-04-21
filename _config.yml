@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "Lu, You (<span class='fangsong'>陆游</span>)" # the website title (if blank, full name will be used instead)
+title: "Lu, You (陆游)" # the website title (if blank, full name will be used instead)
 first_name: You
 middle_name:
 last_name: Lu
@@ -450,7 +450,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.loli.net/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons|Noto+Serif+SC:400,700&display=swap"
+      fonts: "https://fonts.loli.net/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
   highlightjs:
     integrity:
       css:
