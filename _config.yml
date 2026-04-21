@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: "Lu, You (陆游)" # the website title (if blank, full name will be used instead)
 first_name: You
 middle_name:
 last_name: Lu
@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Assistant Professor of Finance at the Business School, Soochow University.
   Research on cybersecurity risk, FinTech, IT investment, and ESG & climate finance.
 footer_text: >
-  © You Lu. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  © You Lu
 keywords: "You Lu, 陆游, Soochow University, finance, ESG, FinTech, cybersecurity, corporate finance"
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📊 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -54,10 +54,10 @@ external_services:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
