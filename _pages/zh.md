@@ -31,7 +31,7 @@ _styles: >
 
 公司金融、ESG 与气候金融、金融科技、IT 投资与网络安全
 
-### 近 5 年论文
+### 近年论文发表
 
 <div class="publications">
 {% bibliography -q @article %}
