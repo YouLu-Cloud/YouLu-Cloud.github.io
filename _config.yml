@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "Lu, You (陆游)" # the website title (if blank, full name will be used instead)
+title: "Lu, You (<span class='fangsong'>陆游</span>)" # the website title (if blank, full name will be used instead)
 first_name: You
 middle_name:
 last_name: Lu
