@@ -4,6 +4,9 @@ title: About
 permalink: /
 subtitle: Assistant Professor of Finance · <a href="https://web.suda.edu.cn/ylu/">Business School, Soochow University</a>
 
+_styles: >
+  .fangsong { font-family: "FangSong", "STFangsong", "仿宋", "FangSong_GB2312", "Noto Serif SC", serif; }
+
 profile:
   align: left
   image: prof_pic.jpg

@@ -10,7 +10,7 @@ _styles: >
   .publications .bib-year { display: none; }
 ---
 
-## <span class="fangsong">陆游</span>
+## 陆游
 
 苏州大学商学院 · 金融学助理教授
 
