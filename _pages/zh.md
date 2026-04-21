@@ -28,11 +28,11 @@ description: 中文简介
 
 公司金融、ESG 与气候金融、金融科技、IT 投资与网络安全
 
-### 代表论文（ABS-3 星）
+### 代表论文
 
-1. Fang, Hasan, **Lu\***, Wu (2026). *Do Tax Rates Affect Corporate Social Responsibility? A Natural Experiment from Corporate Tax Reforms*. Journal of Accounting, Auditing and Finance.
-2. **Lu**, Fang, Li, Song (2025). *The Effect of Supplier IPOs on Major Customer Firm Value*. Financial Review.
-3. Fang, Kang, **Lu\*** (2023). *Promoting Financial Stability of Oil Producers: Operational vs. Financial Hedging*. Journal of Financial Stability.
+<div class="publications">
+{% bibliography -q @article[*] %}
+</div>
 
 ### 科研项目
 
