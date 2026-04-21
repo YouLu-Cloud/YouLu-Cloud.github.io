@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Courses taught at Soochow University Business School.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
