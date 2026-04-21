@@ -7,6 +7,7 @@ nav_order: 6
 description:
 _styles: >
   .post-header { display: none; }
+  .publications .bib-year { display: none; }
 ---
 
 ## 陆游
@@ -30,7 +31,7 @@ _styles: >
 
 公司金融、ESG 与气候金融、金融科技、IT 投资与网络安全
 
-### 代表论文
+### 近 5 年论文
 
 <div class="publications">
 {% bibliography -q @article %}

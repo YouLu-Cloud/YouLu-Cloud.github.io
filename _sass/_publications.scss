@@ -71,6 +71,14 @@
         font-weight: bolder;
       }
 
+      .periodical {
+        color: var(--global-text-color);
+      }
+
+      .bib-year {
+        color: var(--global-text-color);
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
@@ -84,6 +92,11 @@
         > em {
           border-bottom: 1px solid;
           font-style: normal;
+        }
+
+        > strong.self-author {
+          color: var(--global-text-color);
+          font-weight: 700;
         }
 
         > span.more-authors {

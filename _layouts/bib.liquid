@@ -85,10 +85,10 @@
           {%- if forloop.last and author_array_limit == author_array_size %}and {% endif -%}
         {% endif %}
         {%- if author_is_self -%}
-          <em>
+          <strong class="self-author">
             {{- author.first }}
-            {{ author_last_html -}}
-          </em>
+            {{ author_last_html -}}{%- if forloop.first == false -%}*{%- endif -%}
+          </strong>
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{ coauthor_url }}">
@@ -166,7 +166,7 @@
     {% endif %}
     {% assign entryyear = '' %}
     {% if entry.year %}
-      {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
+      {% capture entryyear %}{{ " " }}<span class="bib-year">{{ entry.year }}</span>{% endcapture %}
     {% endif %}
     {% if entry.location %}
       {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}
