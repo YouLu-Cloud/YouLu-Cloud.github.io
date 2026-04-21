@@ -2,14 +2,29 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught at Soochow University Business School.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Undergraduate
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- **FinTech Introduction** · **FinTech Capstone Projects**
+- **Econometrics in Finance**
+- **Monetary and Banking**
+- **Corporate Finance**
+- **Risk Management**
+- **Investment**
+- **Derivatives**
 
-{% include courses.liquid %}
+A pedagogical paper based on my undergraduate FinTech teaching experience is also published.
+
+## Graduate
+
+- **Corporate Finance**
+
+## Student advising
+
+- Faculty advisor: Undergraduate Finance Program, Class of 2022 and 2023
+- Academic advisor: Undergraduate Finance & Computing Program, Class of 2024 and 2025
+- Supervised teams have won provincial-level awards in the College Students' Innovation and Entrepreneurship Training Program (2022) and the iCAN International Contest of Innovation (2025).
