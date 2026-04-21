@@ -15,7 +15,7 @@ footer_text: >
   © You Lu
 keywords: "You Lu, 陆游, Soochow University, finance, ESG, FinTech, cybersecurity, corporate finance"
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 📊 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🔬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://youlu-cloud.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
