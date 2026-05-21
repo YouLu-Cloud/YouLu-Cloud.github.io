@@ -28,7 +28,7 @@ _styles: >
 
 <li><strong>Climate Shocks, Firm Stress, and Banking Stability</strong> (with Yongbin Lv and Yichen Guo). Revise and Resubmit at <strong><em>Journal of Financial Stability</em></strong>.</li>
 
-<li><strong>A Double-Edged Sword: ESG-Linked Pay and Post-Incident ESG Rating Reassessment</strong> (with Lei Fan and Amina Kamar). Under Review at <strong><em>Journal of Business Ethics</em></strong>.</li>
+<li><strong>A Double-Edged Sword: ESG-Linked Pay and Post-Incident ESG Rating Reassessment</strong> (with Lei Fan and Amina Kamar). Under Review at <strong><em>Journal of Corporate Finance</em></strong>.</li>
 
 <li><strong>When CSR Admits Limits: Does Negative Disclosure Indicate a Candid Signal of Reputational Vulnerability?</strong> (with Lifang Xu). Under Review at <strong><em>Journal of Business Ethics</em></strong>.</li>
 
