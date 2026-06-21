@@ -20,9 +20,9 @@ _styles: >
 
 <ol class="working-papers">
 
-<li><strong>Climate Shocks, Firm Stress, and Banking Stability</strong> (with Yongbin Lv and Yichen Guo). Revise and Resubmit at <strong><em>Journal of Financial Stability</em></strong>.</li>
+<li><strong>Climate Shocks, Firm Stress, and Banking Stability</strong> (with Yongbin Lv and Yichen Guo). R&amp;R at <strong><em>Journal of Financial Stability</em></strong>.</li>
 
-<li><strong>Sustainability Committees and Corporate Green Transformation: Substantive Governance or Symbolic Compliance?</strong> (with Di Wu and Yicheng Wang). Revise and Resubmit at <strong><em>International Review of Financial Analysis</em></strong>.</li>
+<li><strong>Sustainability Committees and Corporate Green Transformation: Substantive Governance or Symbolic Compliance?</strong> (with Di Wu and Yicheng Wang). R&amp;R at <strong><em>International Review of Financial Analysis</em></strong>.</li>
 
 <li><strong>Beyond the Breach Victim: How Cybersecurity Incidents Shape IT Investment Across Geographies and Firms</strong> (with Yiwei Fang, Iftekhar Hasan, and Xin Luo). Under Review at <strong><em>Production and Operations Management</em></strong>.</li>
 
