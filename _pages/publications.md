@@ -34,7 +34,7 @@ _styles: >
 
 <li><strong>When CSR Admits Limits: Does Negative Disclosure Indicate a Candid Signal of Reputational Vulnerability?</strong> (with Lifang Xu). Under Review at <strong><em>Journal of Business Ethics</em></strong>.</li>
 
-<li><strong>Data Regulation, R&amp;D Reallocation, and Corporate AI Innovation</strong> (with Tianhu Deng, Yiwei Fang, and Zixuan Zhu). Under Review at <strong><em>Management World</em></strong>.</li>
+<li><strong>数据监管、研发结构重配与企业人工智能创新</strong>（与邓天虎、方一蔚、朱子轩合作）。<strong>《管理世界》</strong>外审中。</li>
 
 <li><strong>CEO Network Centrality and Greenwashing</strong> (with Mohamad Mazboudi). Working Paper.</li>
 
