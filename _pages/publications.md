@@ -34,11 +34,15 @@ _styles: >
 
 <li><strong>A Double-Edged Sword: ESG-Linked Pay and Post-Incident ESG Rating Reassessment</strong> (with Lei Fan and Amina Kamar). Under Review at <strong><em>Journal of Banking and Finance</em></strong>.</li>
 
-<li><strong>数据监管、研发结构重配与企业人工智能创新</strong>（与邓天虎、方一蔚、朱子轩合作）。<strong>《管理世界》</strong>外审中。</li>
+<li><strong>数据监管、研发结构重配与企业人工智能创新</strong>（与邓天虎、方一蔚、朱子轩合作）。<strong>《管理科学学报》</strong>在审。</li>
 
 <li><strong>CEO Network Centrality and Greenwashing</strong> (with Mohamad Mazboudi). Working Paper.</li>
 
 <li><strong>Green Shield Action: Biodiversity Conservation and Banking Risk Response</strong> (with Yongbin Lv and Yichen Guo). Working Paper.</li>
+
+<li><strong>Comply-or-Explain Regulation and Audit Fee</strong> (with Qingyan Zhang). Working Paper.</li>
+
+<li><strong>Central Bank Digital Currency and Corporate Trade Credit Supply: Evidence from China's e-CNY Pilot</strong> (with Lanlan Liu and Yanwen Hu). Working Paper.</li>
 
 </ol>
 
