@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor of Finance · <a href="https://web.suda.edu.cn/ylu/">Business School, Soochow University</a>
+subtitle: Associate Professor of Finance · <a href="https://web.suda.edu.cn/ylu/">Business School, Soochow University</a>
 
 profile:
   align: left
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I am an Assistant Professor of Finance at the Business School of Soochow University. Before joining Soochow in 2020, I earned my Ph.D. in Management Science from the Illinois Institute of Technology and was a Visiting Scholar at the Gabelli School of Business, Fordham University during 2024–2025.
+I am an Associate Professor of Finance at the Business School of Soochow University. Before joining Soochow in 2020, I earned my Ph.D. in Management Science from the Illinois Institute of Technology and was a Visiting Scholar at the Gabelli School of Business, Fordham University during 2024–2025.
 
 My research examines how firms respond to digital transformation and sustainability-related shocks using large-scale data and machine learning approaches. Current work spans **cybersecurity risk, financial technology, IT investment, and ESG and climate finance**. I have published in the *Journal of Accounting, Auditing and Finance*, the *Journal of Financial Stability*, and the *Financial Review*, and I currently serve as the Principal Investigator of a National Natural Science Foundation of China General Program grant.
 

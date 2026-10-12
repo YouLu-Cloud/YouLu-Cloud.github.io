@@ -12,11 +12,11 @@ _styles: >
 
 ## 陆游
 
-苏州大学商学院 · 金融学助理教授
+苏州大学商学院 · 金融学副教授
 
 - 邮箱：<you.lu@hotmail.com>
 - 地址：苏州市东环路 50 号 · 苏州大学商学院
-- [English page](/)｜[中文简历（PDF）](/assets/pdf/You_Lu_CV_cn.pdf?v=20261012)｜[English CV](/assets/pdf/You_Lu_CV.pdf?v=20261012)
+- [English page](/)｜[中文简历（PDF）](/assets/pdf/You_Lu_CV_cn.pdf?v=20261012b)｜[English CV](/assets/pdf/You_Lu_CV.pdf?v=20261012b)
 
 ---
 

@@ -6,6 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-<p><a href="/assets/pdf/You_Lu_CV.pdf?v=20261012" class="btn btn-sm z-depth-0" role="button" target="_blank">Download PDF</a></p>
+<p><a href="/assets/pdf/You_Lu_CV.pdf?v=20261012b" class="btn btn-sm z-depth-0" role="button" target="_blank">Download PDF</a></p>
 
-<iframe src="/assets/pdf/You_Lu_CV.pdf?v=20261012" width="100%" height="1100px" style="border: 1px solid #ddd;"></iframe>
+<iframe src="/assets/pdf/You_Lu_CV.pdf?v=20261012b" width="100%" height="1100px" style="border: 1px solid #ddd;"></iframe>
