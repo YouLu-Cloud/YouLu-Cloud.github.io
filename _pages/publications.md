@@ -40,7 +40,7 @@ _styles: >
 
 <li><strong>Comply-or-Explain Regulation and Audit Fee</strong> (with Qingyan Zhang). Working Paper.</li>
 
-<li><strong>Central Bank Digital Currency and Corporate Trade Credit Supply: Evidence from China's e-CNY Pilot</strong> (with Lanlan Liu and Yanwen Hu). Working Paper.</li>
+<li><strong>Central Bank Digital Currency and Trade Credit Supply: Evidence from China's e-CNY Pilot</strong> (with Lanlan Liu, Yaowen Hu, and Xiyang Li). Working Paper.</li>
 
 </ol>
 
