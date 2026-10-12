@@ -20,8 +20,6 @@ _styles: >
 
 <ol class="working-papers">
 
-<li><strong>Extreme Temperature Shocks, Corporate Borrower Stress, and Bank Credit Risk</strong> (with Yongbin Lv and Yichen Guo). R&amp;R at <strong><em>Journal of Financial Stability</em></strong>.</li>
-
 <li><strong>Sustainability Committees and Corporate Green Transformation: Substantive Governance or Symbolic Compliance?</strong> (with Di Wu and Yicheng Wang). R&amp;R at <strong><em>International Review of Financial Analysis</em></strong>.</li>
 
 <li><strong>Contagion Without Contact: How Data Breaches Spillover Across Establishments</strong> (with Yiwei Fang, Iftekhar Hasan, and Xin Luo). R&amp;R at <strong><em>Journal of Management Information Systems</em></strong>.</li>
