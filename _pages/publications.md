@@ -26,13 +26,13 @@ _styles: >
 
 <li><strong>Negative CSR Tone and Subsequent Reputation-Related Exposure: A Soft-Information Perspective</strong> (with Lifang Xu). R&amp;R at <strong><em>Journal of Business Ethics</em></strong>.</li>
 
+<li><strong>数据监管、竞争威胁缓解与企业人工智能创新</strong>（与邓天虎、方一蔚、朱子轩合作）。R&amp;R at <strong>《管理科学学报》</strong>。</li>
+
 <li><strong>Beyond the Breach Victim: How Cybersecurity Incidents Shape IT Investment Across Geographies and Firms</strong> (with Yiwei Fang, Iftekhar Hasan, and Xin Luo). Under Review at <strong><em>Production and Operations Management</em></strong>.</li>
 
 <li><strong>Social Connection and IT Investment Decision</strong> (with Mingying Cheng, Yiwei Fang, and Iftekhar Hasan). Under Review at <strong><em>Journal of Financial and Quantitative Analysis</em></strong>.</li>
 
 <li><strong>A Double-Edged Sword: ESG-Linked Pay and Post-Incident ESG Rating Reassessment</strong> (with Lei Fan and Amina Kamar). Under Review at <strong><em>Journal of Banking and Finance</em></strong>.</li>
-
-<li><strong>数据监管、研发结构重配与企业人工智能创新</strong>（与邓天虎、方一蔚、朱子轩合作）。<strong>《管理科学学报》</strong>在审。</li>
 
 <li><strong>CEO Network Centrality and Greenwashing</strong> (with Mohamad Mazboudi). Working Paper.</li>
 
